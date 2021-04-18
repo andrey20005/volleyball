@@ -1,0 +1,48 @@
+body {
+    font-family: consolas;
+    color: rgb(98, 114, 255);
+    background-color: rgb(253, 255, 141);
+}
+
+header {
+    background-color: white;
+}
+
+header img {
+    width: 60px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+header p{
+    font-size: 40px;
+}
+nav {
+    text-align: center;
+    background-color: rgb(98, 114, 255);
+}
+
+nav a {
+    padding: 20px;
+    font-family: consolas;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(253, 255, 141);
+}
+
+main img{
+    height: 230px;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    text-align:center;
+    padding: 30px;
+}
+footer a {
+    color: white;
+    background-color: black;
+    text-align:center;
+}
